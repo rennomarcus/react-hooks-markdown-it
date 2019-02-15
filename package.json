@@ -1,0 +1,28 @@
+{
+  "name": "react-hooks-markdown-it",
+  "version": "0.1.0",
+  "description": "React hooks that wraps markdown-it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rennomarcus/react-hooks-markdown-it.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "markdown-it"
+  ],
+  "author": "Marcus Renno & Phani Komaravolu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rennomarcus/react-hooks-markdown-it/issues"
+  },
+  "homepage": "https://github.com/rennomarcus/react-hooks-markdown-it#readme",
+  "dependencies": {
+    "markdown-it": "^8.4.2",
+    "react": "^16.8.2"
+  }
+}
